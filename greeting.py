@@ -7,7 +7,7 @@ def greet(name):
         message = 'Hello'
     else:
         message = 'Good evening'
-    print(message+ name + '-san!')
+    print(message + name + '-san!')
 
 
 
